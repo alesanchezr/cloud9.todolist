@@ -1,0 +1,22 @@
+{
+  "name": "Todo List",
+  "description": "Adds TODO List option to the + menu on tab list. ",
+  "version": "0.0.1",
+  "homepage": "https://github.com/regexps/todo-regex",
+  "repository": "regexps/todo-regex",
+  "author": "Mike Burgh",
+  "bugs": {
+    "url": "https://github.com/mikeburgh/cloud9.todolist/issues"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikeburgh/cloud9.todolist"
+  },
+  "plugins": {
+    "todolist":{}
+  },
+  "categories": ["miscellaneous"],
+  "licenses": []
+}
+
