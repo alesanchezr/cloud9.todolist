@@ -2,8 +2,8 @@
   "name": "cloud9.todolist",
   "description": "Adds TODO List option to the + menu on tab list. ",
   "version": "0.0.1",
-  "homepage": "https://github.com/regexps/todo-regex",
-  "repository": "regexps/todo-regex",
+  "homepage": "https://github.com/mikeburgh/cloud9.todolist",
+  "repository": "mikeburgh/cloud9.todolist",
   "author": "Mike Burgh",
   "bugs": {
     "url": "https://github.com/mikeburgh/cloud9.todolist/issues"
