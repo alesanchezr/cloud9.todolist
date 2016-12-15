@@ -6,6 +6,7 @@
 // -- Decide if we want to reload ecah time!
 // -- sort out showing errors with C9 console (top bar)
 // -- Fix it to find tab in existing panel rather than opening another one
+// -- Check out dif.unified.. it adds direct to tab for tool bar.. could allow us to do options that way
 
 define(function(require, exports, module) {
     main.consumes = [
